@@ -9,6 +9,8 @@ namespace AdministratorAPI.Data
         [Required]
         public string nome { get; set; }
         [Required]
+        public string email { get; set; }
+        [Required]
         public string senha { get; set; }
         
         

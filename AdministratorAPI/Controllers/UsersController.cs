@@ -31,6 +31,7 @@ namespace AdministratorAPI.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)
         {
+            
             var user = await _context.Usuarios.FindAsync(id);
 
             if (user == null)
