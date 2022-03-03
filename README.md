@@ -6,7 +6,7 @@
 <li>Crud User 
 :white_check_mark:
 </li>
-<li>JWT Auth :white_check_mark: </li> <== Done Mas Repensando na arquitetura ficara desativado por enquanto.
+<li>JWT Auth :white_check_mark: <== Done Mas Repensando na arquitetura ficara desativado por enquanto. </li> 
 <li>Crud Groups :white_large_square: </li>
 <li>Crud Permissions :white_large_square: </li>
 <li>Crud Roles :white_large_square: </li>
